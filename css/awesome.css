@@ -1,6 +1,9 @@
 .awesome{
     display: flex;
     justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 123px;
+    height: 600px;
 }
 
 .line{
