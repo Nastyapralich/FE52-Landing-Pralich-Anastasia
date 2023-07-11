@@ -1,9 +1,9 @@
 .awesome{
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
     padding-top: 80px;
     padding-bottom: 123px;
-    height: 600px;
+    /* height: 600px; */
 }
 
 .line{
@@ -30,15 +30,13 @@ line-height: normal;
 
 .awesome_wrap{
     margin-top: 68px;
-    /* padding-right: 133px;
-    padding-left: 127px; */
     display: flex;
     justify-content:space-between;
-    align-items: center;
+
 }
 
 .awesome_card {
-margin-right: 40px;
+max-width: 350px;
 }
 
 .awesome_card_img {
@@ -52,12 +50,13 @@ overflow: hidden;
 display: flex;
   justify-content: center;
   align-items: center;
+  margin: auto;
 }
 
 .awesome_card_title{
     text-align: center;
     color: #333;
-font-family: "Open sans";
+font-family: "Open Sans";
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
@@ -68,10 +67,7 @@ margin-top: 30px;
   .awesome_card_text{
     margin-top: 16px;
     text-align:center;
-    /* min-width: 350px; */
-    /* height: 60px; */
-
-
+  
   }
   
   .awesome_card_text p{
