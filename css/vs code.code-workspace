@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../../../джаваскрипт/vs code"
+        },
+        {
+            "path": ".."
+        },
+        {
+            "path": "../../../тест/alya-nastya"
+        },
+        {
+            "path": "../../../тест/FE52-onl-Front-End"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "awesome"
+    }
+}

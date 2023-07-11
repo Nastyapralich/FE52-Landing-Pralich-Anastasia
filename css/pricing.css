@@ -1,75 +1,76 @@
-.pricing{
-    padding-top: 80px;
-    padding-bottom: 59px;
-    background-color:#F5F5F5; ;
+.pricing {
+  padding-top: 80px;
+  padding-bottom: 59px;
+  background-color: #f5f5f5;
 }
 
 .pricing_wrap {
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 62px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 62px;
 }
 
-.pricing_card{
-    width: 340px;
-    text-align: center;
-
+.pricing_card {
+  width: 340px;
+  text-align: center;
+  
 }
 
-.dark_title{
-    color: #FFF;
-    margin: auto;
-    font-family: "Open Sans";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    background: #333;
-    padding-top: 12px;
-    padding-bottom: 13px;
-    padding-left: 144px;
-    padding-right: 144px;
-    margin-bottom: 2px;
-    text-align: center;
+.dark_title {
+  color: #fff;
+  margin: auto;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: #333;
+  padding: 12px 144px 13px 144px;
+  /* padding-bottom: 13px;
+  padding-left: 144px;
+  padding-right: 144px; */
+  margin-bottom: 2px;
+  text-align: center;
+  
 }
 
-.dark_price{
-    color: #FFF;
-text-align: center;
-font-family: "Raleway";
-font-size: 35px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-background: #333;
-padding: 26px 135px 33px 144px;
-margin-bottom: 2px;
+.dark_price {
+  color: #fff;
+  text-align: center;
+  font-family: "Raleway";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: #333;
+  padding: 26px 135px 33px 144px;
+  margin-bottom: 2px;
 }
 
-.dark{
-    background: #333;
-    color: rgba(255, 255, 255, 0.50);
-text-align: center;
-font-family: "Open Sans";
-font-size: 14px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-padding: 14px 127px 17px 135px;
-margin-bottom: 4px;
+.dark {
+  background: #333;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 14px 127px 17px 135px;
+  margin-bottom: 4px;
 }
 
-.light{
-background: #FFF;
-margin-bottom: 4px;
-color: #86878B;
-text-align: center;
-font-family: "Open Sans";
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-padding: 10px 123px 11px 131px;
+.light {
+  background: #fff;
+  margin-bottom: 4px;
+  color: #86878b;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px 123px 11px 131px;
 }
